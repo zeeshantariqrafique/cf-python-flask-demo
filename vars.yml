@@ -1,0 +1,3 @@
+memory: 128MB       # Sets memory limit of the app
+disk_quota: 256MB   # Allocates disk space to the app
+random-route: true  # Generate route based on the app name
